@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @AnnaLew
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on anything bioinformatics related
-- 📫 How to reach me: 
-- https://www.linkedin.com/in/anna-lewkowicz/
+KU Leuven Bioinformatics MSc student interested in anything bioinformatics related. Currently, mostly posting updates related to a BRN project I'm working on
 
 <!---
 AnnaLew/AnnaLew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
